@@ -6,10 +6,15 @@
 <!-- Description. -->
 ## About.
 
-This is what ... does:
+This online library allows the user to:
 
-
-
+* Search for a word
+* View the following:
+    1. Phonetics of the word
+    2. Origin of the word
+    3. Different definitions of the word
+    4. Part of speech of the word
+    5. Examples of the word in use.
 
 
 The project was done using the following languages:
@@ -23,12 +28,12 @@ HTML
 
 To run the program, follow the following steps:
 
-* 
+* **Fork** and **clone** the container-repository and run the index.html file alongside the rest of the files.
 
 
->  The [API]() that I used.
-
->  Go to the live page using this link: [Live page](https://joseph-hansel.github.io/phase-1-project/)
+>[!IMPORTANT]
+> The [API](https://dictionaryapi.dev/) that I used.
+> The [live page](https://joseph-hansel.github.io/phase-1-project/).
 
 
 ## Contributers (Authors).
