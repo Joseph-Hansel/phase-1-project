@@ -16,3 +16,11 @@ header {
 #form {
     margin: 1%;
 }
+
+.main {
+    margin: 1%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 1px, solid, black;
+    border-radius: 5px;
+}
