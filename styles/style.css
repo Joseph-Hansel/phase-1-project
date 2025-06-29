@@ -24,3 +24,7 @@ header {
     border: 1px, solid, black;
     border-radius: 5px;
 }
+
+.actions {
+    margin: 1%;
+}

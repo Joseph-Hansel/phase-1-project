@@ -16,6 +16,12 @@ function run() {
                 <p>${wording[0].meanings[0].partOfSpeech}</p>
 
                 <p>${wording[0].meanings[0].definitions[0].definition}</p>`
+            let other = main.appendChild(document.createElement("button"))
+            other.innerText = "Other definitions"
+            other.className = "actions"
+            let more = main.appendChild(document.createElement("button"))
+            more.innerText = "Know more about this word."
+            more.className = "actions"
         });
     })
     
