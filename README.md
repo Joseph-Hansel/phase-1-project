@@ -20,7 +20,9 @@ This online library allows the user to:
 The project was done using the following languages:
 
 Javascript
+
 CSS
+
 HTML
 
 
@@ -33,6 +35,7 @@ To run the program, follow the following steps:
 
 >[!IMPORTANT]
 > The [API](https://dictionaryapi.dev/) that I used.
+
 > The [live page](https://joseph-hansel.github.io/phase-1-project/).
 
 
